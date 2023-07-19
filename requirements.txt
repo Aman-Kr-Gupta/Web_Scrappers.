@@ -1,0 +1,6 @@
+Python 3.9
+Beautiful Soup 
+Requests
+re
+html.parser
+PyCharm Community Edition 
